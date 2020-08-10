@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="fullName">Nombre Completo</string>
+    <string name="date">Selecciona la fecha de nacimiento:</string>
+    <string name="phone">Teléfono</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="description">Descripción del contacto</string>
+    <string name="btnext">Siguiente</string>
+
+    <string name="pName">Nombre:</string>
+    <string name="pBirth">Fecha de nacimiento:</string>
+    <string name="pPhone">Teléfono:</string>
+    <string name="pEmail">e-Mail:</string>
+    <string name="pDescription">Descripción:</string>
+
+    <string name="cConfirm">Confirmar Datos</string>
+    <string name="btEdit">Editar datos</string>
+</resources>
